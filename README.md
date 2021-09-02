@@ -6,4 +6,4 @@ Hola, I'm amjad ali 👋
 - 📫 How to reach me: amjadsaid9925@gmail.com 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i spend my time read a book and gain knowledge 
-![image](https://user-images.githubusercontent.com/58101353/131782821-0cc6c703-6c92-400e-b7c2-3934cdae322e.png)
+https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif

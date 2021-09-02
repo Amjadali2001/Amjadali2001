@@ -6,4 +6,4 @@ Hola, I'm amjad ali 👋
 - 📫 How to reach me: amjadsaid9925@gmail.com 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i spend my time read a book and gain knowledge 
-- <img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- <img src = "https://github.com/Amjadali2001/Amjadali2001/blob/main/fullstack.gif">
